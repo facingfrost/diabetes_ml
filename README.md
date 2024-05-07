@@ -18,3 +18,5 @@
 4. Classification: machine learning methods
    - 参考：https://www.kaggle.com/code/zabihullah18/diabetes-prediction#1-|-Introduction
 5. Model validation: cross validation
+   - 参考：https://www.kaggle.com/code/zabihullah18/diabetes-prediction#1-|-Introduction
+   - 同时加上cross validation
