@@ -1,6 +1,7 @@
 # diabetes_ml
 
 1. kaggle link: https://www.kaggle.com/code/zabihullah18/diabetes-prediction
+2. Dataset (14变量1k行): https://www.kaggle.com/datasets/aravindpcoder/diabetes-dataset/data 
 
 ## Outline
 
