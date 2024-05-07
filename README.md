@@ -10,8 +10,9 @@
   -  （先画箱形图/小提琴图）按照标准差去掉outliers，进行标准化。
   -  去掉class=p的，因为我们要预测，要做二分类。
   -  gender，class变成0-1.
-
-3. Feature selection: e.g. PCA, combined with report of CDC
-4. Visualization: EDA
-5. Classification: machine learning methods
-6. Model validation: cross validation
+2. Feature selection: (e.g. combined with report of CDC)
+   - Lasso, ridge regression
+   - Correlation graph
+5. Visualization: EDA
+6. Classification: machine learning methods
+7. Model validation: cross validation
