@@ -20,3 +20,4 @@
 5. Model validation: cross validation
    - 参考：https://www.kaggle.com/code/zabihullah18/diabetes-prediction#1-|-Introduction
    - 同时加上cross validation
+   - model selection：选个最好的
