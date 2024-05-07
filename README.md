@@ -13,6 +13,8 @@
 2. Feature selection: (e.g. combined with report of CDC)
    - Lasso, ridge regression
    - Correlation graph
-5. Visualization: EDA
-6. Classification: machine learning methods
-7. Model validation: cross validation
+3. Visualization: EDA
+   - 参考：https://www.kaggle.com/code/zabihullah18/diabetes-prediction#1-|-Introduction
+4. Classification: machine learning methods
+   - 参考：https://www.kaggle.com/code/zabihullah18/diabetes-prediction#1-|-Introduction
+5. Model validation: cross validation
