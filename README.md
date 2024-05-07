@@ -4,7 +4,8 @@
 
 ## Outline
 
-1. Data pre-processing (包含feature selection，基于CDC的报告)，参考：https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook
-2. Visualization: EDA
-3. Classification: machine learning methods
-4. Model validation: cross validation
+1. Data pre-processing，参考noteboook：https://www.kaggle.com/code/alexteboul/diabetes-health-indicators-dataset-notebook
+2. Feature selection: e.g. PCA, combined with report of CDC
+3. Visualization: EDA
+4. Classification: machine learning methods
+5. Model validation: cross validation
