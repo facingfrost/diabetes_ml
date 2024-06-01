@@ -22,3 +22,8 @@ This is the repository for diabetes classification project on Machine Learning c
 
 6. Conclusion
 
+## Instruction to reproduce the results
+1. for preprocessing:
+run notebooks/preprocess.ipynb
+2. for modeling:
+run notebooks/modelling.ipynb
